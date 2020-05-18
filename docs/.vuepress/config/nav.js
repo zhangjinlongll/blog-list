@@ -3,26 +3,15 @@ module.exports = [{
     link: "/"
   },
   {
-    text: "技术总结",
-    items: [{
-        text: "原创文章",
-        link: "/technical-summary/"
-      }
-    ]
+    text: "指南",
+    link: "/guid/"
   },
   {
-    text: '关于我',
-    items: [{
-      text: "我的公众号",
-      link: 'https://github.com/zhangjinlongll'
-    }]
+    text: "常见问题",
+    link: "/movie/"
   },
   {
-    text: "个人主页",
-    items: [{
-        text: "GitHub",
-        link: "https://github.com/zhangjinlongll"
-      }
-    ]
+    text: "GitLab",
+    link: ""
   }
 ];

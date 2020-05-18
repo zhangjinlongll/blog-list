@@ -4,10 +4,10 @@ const navConf = require('./config/nav')
 const headConf = require('./config/head')
 
 module.exports = {
-    title: '张金龙的博客',
-    description: '我的心路历程',
+    title: '微前端',
+    description: '微前端',
     dest: './dist',
-    port: '8080',
+    port: '8090',
     head: headConf,
     markdown: {
         lineNumbers: true
