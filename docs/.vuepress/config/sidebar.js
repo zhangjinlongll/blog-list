@@ -1,4 +1,4 @@
 module.exports = {
-    '/movie/': require('../../movie/sidebar'),
-    '/guid/': require('../../guide/sidebar')
+    '/guid/': require('../../guid/sidebar'),
+    '/movie/': require('../../movie/sidebar')
 }
